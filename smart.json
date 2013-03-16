@@ -1,0 +1,9 @@
+{
+	"name": "bootstrap-daterangepicker",
+	"description": "Date Range Picker for Twitter Bootstrap packaged for Meteor.",
+	"homepage": "https://github.com/BenjaminRH/meteor-bootstrap-daterangepicker",
+	"author": "Benjamin Harris  (http://benjaminrharris.com)",
+	"version": "0.1.0",
+	"git": "https://github.com/BenjaminRH/meteor-bootstrap-daterangepicker.git",
+	"packages": {}
+}
